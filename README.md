@@ -38,7 +38,7 @@ For each open port it attempts simple banner grabbing (sends an HTTP 'HEAD' requ
 1. Clone the repo (replace <vikram> with your GitHub username):
 
 bash
-git clone 
+git clone https://github.com/vikram-hack/Network-scanning-Tool.git
 cd Network-scanning-Tool
 
 
